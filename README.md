@@ -23,7 +23,7 @@ information.
 ### Docset
 * [caliper-spec](https://github.com/IMSGlobal/caliper-spec)
 * [caliper-cert-guide](https://github.com/IMSGlobal/caliper-cert-guide)
-* [caliper-implementation-guide](https://github.com/IMSGlobal/caliper-implementation-guide)
+* [caliper-implementation-guide](https://github.com/IMSGlobal/caliper-impl-guide)
 * [caliper-ontology](https://github.com/IMSGlobal/caliper-ontology)
 * [caliper-contexts](https://github.com/IMSGlobal/caliper-contexts)
 
