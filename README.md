@@ -26,10 +26,7 @@ information.
 |Name|Public Version|Description|
 |--- |--- |--- |
 |[caliper-central](https://github.com/IMSGlobal/caliper-central)| |This repo. Central place to log and manage Github issues.|
-|[caliper-spec](https://github.com/IMSGlobal/caliper-spec)| |The main spec document.|
-|[caliper-impl-guide](https://github.com/IMSGlobal/caliper-impl-guide)| |The implementation guide document.|
-|[caliper-cert-guide](https://github.com/IMSGlobal/caliper-cert-guide)| ||
-|[caliper-ontology](https://github.com/IMSGlobal/caliper-ontology)| |caliper-ontology provides machine-readable documents that define the concepts, relationships and constraints that together comprise the Caliper information model. The ontology is available in three flavors: JSON-LD, RDF/XML and Turtle.|
+|[caliper-spec](https://github.com/IMSGlobal/caliper-spec)| |The main spec document, implementation guide, certification guide, and Ontologies for machine-readable modelling activities|
 |[caliper-contexts](https://github.com/IMSGlobal/caliper-contexts)|[Yes](https://github.com/IMSGlobal/caliper-contexts-public)|Caliper JSON-LD context documents for mapping Caliper terms to IRIs.|
 
 ### Test fixtures and JSON schema
